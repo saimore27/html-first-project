@@ -1,0 +1,54 @@
+body {
+    background-color: #609EA2;
+ }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width:5%;
+ }   
+  
+h1 {
+    color: blanchedalmond;
+    background-color: rosybrown;
+    font-style: oblique;
+    
+ }
+h3 {
+    color: chartreuse;
+    background-color:lightseagreen ;
+ } 
+p {
+    color: coral;
+    font-size: 20px;
+} 
+li {
+    color: green;
+    font-size: 20px;
+}
+a {
+    background-color: lightcyan;
+}
+img:hover {
+    background-color: lightsalmon;
+}
+input:active {
+    background-color: lightpink;
+}
+
+
+.stick {
+    background-color: lightseagreen;
+}
+.circular {
+    border-radius: 200%;
+}
+.pentagone {
+    border-radius: 200%;
+}
+
+#first {
+    color: cornflowerblue;
+}
